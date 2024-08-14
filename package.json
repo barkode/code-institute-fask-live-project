@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "heroku": "^9.1.0"
+  }
+}
